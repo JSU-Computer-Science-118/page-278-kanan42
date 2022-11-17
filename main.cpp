@@ -1,4 +1,3 @@
-
 //Hannah Coleman J00963674
 //11/15/2022
 #include<iostream>
@@ -40,6 +39,7 @@ int main() {
 		cout << "Average number of boxes sold by each person: "
 		<< totalNumOfBoxesSold / numOfVolunteers
 		<< endl;
-		
+	else
+		cout << "No input." << endl;
 	return 0;
 }
