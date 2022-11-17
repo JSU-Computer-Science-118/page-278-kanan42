@@ -40,7 +40,6 @@ int main() {
 		cout << "Average number of boxes sold by each person: "
 		<< totalNumOfBoxesSold / numOfVolunteers
 		<< endl;
-	else
-		cout << "Line 34:No input." << endl;
+		
 	return 0;
 }
